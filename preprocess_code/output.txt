@@ -1,0 +1,9 @@
+JAVA:
+Statistics: attn_success_total: 895225, attn_fail_total: 2463587, success/fail: 0.3634, length_total: 26330994, attn_success percentage: 0.0340, total unk percentage: 0.1276
+Statistics: attn_success_total: 451181, attn_fail_total: 1264023, success/fail: 0.3569, length_total: 13240044, attn_success percentage: 0.0341, total unk percentage: 0.1295
+PY
+Statistics: attn_success_total: 2007407, attn_fail_total: 5285969, success/fail: 0.3798, length_total: 62340693, attn_success percentage: 0.0322, total unk percentage: 0.1170
+Statistics: attn_success_total: 985513, attn_fail_total: 2570911, success/fail: 0.3833, length_total: 30417894, attn_success percentage: 0.0324, total unk percentage: 0.1169
+JS:
+Statistics: attn_success_total: 2079826, attn_fail_total: 5445211, success/fail: 0.3820, length_total: 107104111, attn_success percentage: 0.0194, total unk percentage: 0.0703
+Statistics: attn_success_total: 1044410, attn_fail_total: 2673748, success/fail: 0.3906, length_total: 53188270, attn_success percentage: 0.0196, total unk percentage: 0.0699
