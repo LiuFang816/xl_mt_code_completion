@@ -1,6 +1,5 @@
 
-## A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning
-
+## A Self-Attentional Neural Architecture for Code Completion with MTL
 
 ## Prerequisite
 
