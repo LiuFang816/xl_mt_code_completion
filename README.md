@@ -17,5 +17,6 @@ Each program is represented in its AST format, and the AST is serialized in in-o
 Data process code is in the "preprocess_code" diretory.
 
 ## Train models
-
-python train_gpu_mt.py --alpha ${weight for type prediction loss} --mem_len ${memory length} --model_dir ${path_to_save}
+```python
+python train_gpu_mt.py --alpha ${weight for type prediction loss} --mem_len ${memory length} --model_dir ${path_to_save} 
+```
